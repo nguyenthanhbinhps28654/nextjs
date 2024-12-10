@@ -1,0 +1,128 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Mainboard ASUS ROG Strix Z790-E",
+      "price": 5500000,
+      "image": "https://www.networkhardwares.com/cdn/shop/products/1075822342_grande.jpg?v=1706932304",
+      "hot": 1,
+      "idcate": 1
+    },
+    {
+      "id": "2",
+      "name": "Card đồ họa ASUS ROG Gaming RTX 4090",
+      "price": 59000000,
+      "image": "https://file.hstatic.net/1000026716/file/asus-rog-strix-geforce-rtx-4090-24gb-gddr6x-1_c9dca72e1e464dfcb34227fbce41b149_grande.jpg",
+      "hot": 1,
+      "idcate": 1
+    },
+    {
+      "id": "3",
+      "name": "CPU Intel Core i9-13900K",
+      "price": 12000000,
+      "image": "https://hanoicomputercdn.com/media/product/68378_cpu_intel_core_i9_13900__3_.jpg",
+      "hot": 1,
+      "idcate": 2
+    },
+    {
+      "name": "RAM Corsair Vengeance LPX 32GB (2x16GB) DDR5 6000MHz",
+      "price": 4000000,
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/329/122/products/ram-pc-corsair-vengeance-rgb-32gb-5600mhz-ddr5-2x16gb-cmh32gx5m2b5600c40k-6e1105f6-33c9-4b8e-88a2-ffda41a56e29-12af0968-876f-4dd5-9359-6a47a2a9ddf7.jpg?v=1729315180577",
+      "hot": 1,
+      "idcate": 3,
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "SSD Samsung 970 Evo Plus 1TB M.2 NVMe",
+      "price": 2500000,
+      "image": "https://bizweb.dktcdn.net/100/329/122/products/970-evo-plus-1tb-01-1689929004911.jpg?v=1695052940103",
+      "hot": 1,
+      "idcate": 4
+    },
+    {
+      "id": "6",
+      "name": "Nguồn Corsair RM850x 850W",
+      "price": 3000000,
+      "image": "https://product.hstatic.net/1000333506/product/corsair-rm850x-shift-fully-modular-atx-power-supply-ttd-1_6089b423e5f44595bfd1bb1c6a5828ce_grande.jpg",
+      "hot": 0,
+      "idcate": 5
+    },
+    {
+      "id": "7",
+      "name": "Card đồ họa ROG GeForce RTX 3080",
+      "price": 17000000,
+      "image": "https://anphat.com.vn/media/product/40609_vga_asus_rog_strix_geforce_rtx_3080_oc_12gb_gddr6x__rog_strix_rtx3080_o12g_gaming_.jpg",
+      "hot": 1,
+      "idcate": 1
+    },
+    {
+      "id": "8",
+      "name": "Mainboard Asus TUF Gaming B760M-PLUS Wifi",
+      "price": 7000000,
+      "image": "https://product.hstatic.net/200000420363/product/tinhocngoisao.com1__14__e9256a49f0614be2a5d26f6635543c66.jpg",
+      "hot": 1,
+      "idcate": 1
+    },
+    {
+      "id": "9",
+      "name": "ROG Ryujin 360 AIO Liquid Cooler",
+      "price": 1000000,
+      "image": "https://www.tnc.com.vn/uploads/product/gallery/TAN-NHIET-CPU-ASUS-ROG-RYUJIN-360--6.png",
+      "hot": 1,
+      "idcate": 6
+    },
+    {
+      "id": "10",
+      "name": "Case NZXT H510 ATX Mid Tower",
+      "price": 2500000,
+      "image": "https://bizweb.dktcdn.net/100/446/096/products/01-7636fb70d3184eb3963809573b686965.jpg?v=1655174591293",
+      "hot": 0,
+      "idcate": 7
+    },
+    {
+      "id": "11",
+      "name": "SSD Kingston NV2 500GB PCIe 4.0",
+      "price": 1000000,
+      "image": "https://bizweb.dktcdn.net/100/329/122/products/ssd-kingston-nv2-m-2-pcie-gen4-x4-nvme-500g-02.jpg?v=1729315153303",
+      "hot": 1,
+      "idcate": 4
+    },
+    {
+      "id": "12",
+      "name": "Bàn phím cơ Logitech G Pro X",
+      "price": 2500000,
+      "image": "https://product.hstatic.net/200000722513/product/gearvn-logitech-g-pro-01_grande_694ea6b132e748cd9124d27ddc2ff82e_8b6516046e634f18b9d0cf443dc16f3a_grande.jpg",
+      "hot": 0,
+      "idcate": 8
+    },
+    {
+      "name": "ASUS ROG Strix G16 G614JV-N4156W",
+      "price": 39990000,
+      "image": "https://bizweb.dktcdn.net/thumb/grande/100/329/122/products/laptop-gaming-asus-rog-strix-g16-g614jv-n4156w-00.jpg?v=1714013813547",
+      "hot": 1,
+      "idcate": 1,
+      "id": "4eb4"
+    }
+  ],
+  "users": [
+    {
+      "id": "8400",
+      "firstName": "Simon",
+      "lastName": "Nguyen",
+      "email": "pzr85723@omeie.com",
+      "avatar": "",
+      "password": "$2a$10$7KzE0Bqd6HphulAI6eYgtu5euS1ORojkiWMPwLQcWzL.cF5q08iCe",
+      "role": "admin"
+    },
+    {
+      "firstName": "test",
+      "lastName": "qwerty",
+      "email": "qwerty@gmail.com",
+      "password": "$2a$10$qholQbQ2OS2ax3xZI6SbNuecmYGbaKszsytVrwBtTkZJ83aZ7zM6m",
+      "avatar": "",
+      "role": "user",
+      "id": "0bf1"
+    }
+  ]
+}
